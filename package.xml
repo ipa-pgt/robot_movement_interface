@@ -5,7 +5,9 @@
   <version>1.0.0</version>
   <description>Message definition of the Robot Movement Interface</description>
   <maintainer email="paq@ipa.fhg.de">Pablo Quilez Velilla</maintainer>
+  <maintainer email="pgt@ipa.fhg.de">Philipp Tenbrock</maintainer>
   <license>Apache 2</license>
+  <author email="paq@ipa.fhg.de">Pablo Quilez Velilla</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
